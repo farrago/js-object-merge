@@ -1,0 +1,24 @@
+{
+  "name": "js-object-merge",
+  "version": "1.0.0",
+  "description": "3-way merge for JS objects",
+  "main": "object-merge.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farrago/js-object-merge.git"
+  },
+  "author": "github@richardtaylor.info",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farrago/js-object-merge/issues"
+  },
+  "homepage": "https://github.com/farrago/js-object-merge#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  },
+  "dependencies": {}
+}
